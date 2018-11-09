@@ -24,6 +24,8 @@ Source file (ahk file):
 # Uninstall
 no need of uninstaller, just delete the file (close it before : left click and choose "Exit App") 
 
-# Other ressources
-https://simplestipsandtricks.blogspot.com/2018/04/automatizzare-il-click-su-consiglia.html
+# Books
+https://amzn.to/2JQPDuO
 
+# Blog
+https://simplestipsandtricks.blogspot.com/
