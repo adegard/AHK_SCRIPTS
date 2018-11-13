@@ -19,7 +19,7 @@ Source file (ahk file):
 - <b>Ctrl+R to RECORD</b> 
 - <b>Ctrl+D to STOP RECORDING</b> 
 - Replay Macro: Open "macro.ahk" just created in the directory
-- <bESC to escape from player</b> 
+- <b>ESC to escape from player</b> 
 
 # Uninstall
 no need of uninstaller, just delete the file (close it before : left click and choose "Exit App") 
