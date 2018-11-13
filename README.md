@@ -7,7 +7,7 @@ Easily record without coding: Mouse Moves, clicks and Keys press capture. Just r
 
 # DEMO on Youtube (French)
 https://youtu.be/HpqP9H30_Lg
-<a href="https://youtu.be/HpqP9H30_Lg" target="_blank"><img src="https://raw.githubusercontent.com/adegard/tagui_scripts/master/20180529214753.png"  align="center"></a>
+<a href="https://youtu.be/HpqP9H30_Lg" target="_blank"><img src="https://raw.githubusercontent.com/adegard/AHK_SCRIPTS/master/DesignCap.jpg"  align="center"></a>
 
 # Installation (Windows)
 Source file (ahk file):
