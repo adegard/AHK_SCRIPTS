@@ -5,10 +5,6 @@ MACRO RECORDER is a Free Automation Tool and Script Generator. It is based on Au
 
 Easily record without coding: Mouse Moves, clicks and Keys press capture. Just record sequences of what you do. MACRO RECORDER saves all for you in an executable File "macro.ahk" (Autohotkey installed) to re-play all the sequence... Enjoy!
 
-# DEMO on Youtube (French)
-https://youtu.be/HpqP9H30_Lg
-<a href="https://youtu.be/HpqP9H30_Lg" target="_blank"><img src="https://raw.githubusercontent.com/adegard/AHK_SCRIPTS/master/DesignCap.jpg"  align="center"></a>
-
 # Installation (Windows)
 Source file (ahk file):
 - Install AutoHotKey : https://autohotkey.com/
