@@ -6,7 +6,7 @@
 ; from center. You can personalize various settings at the top of the script.
 
 ; Increase the following value to make the mouse cursor move faster:
-JoyMultiplier = 0.30
+JoyMultiplier = 0.20
 
 ; Decrease the following value to require less joystick displacement-from-center
 ; to start moving the mouse.  However, you may need to calibrate your joystick
