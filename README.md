@@ -20,8 +20,4 @@ Source file (ahk file):
 # Uninstall
 no need of uninstaller, just delete the file (close it before : left click and choose "Exit App") 
 
-# My Books 
-https://amzn.to/2JQPDuO
 
-# My Blog
-https://simplestipsandtricks.blogspot.com/
