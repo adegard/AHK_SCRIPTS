@@ -21,3 +21,7 @@ Source file (ahk file):
 no need of uninstaller, just delete the file (close it before : left click and choose "Exit App") 
 
 
+
+---
+
+For an overview of all my other projects, see https://adegard.github.io/blog/
